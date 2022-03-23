@@ -11,7 +11,7 @@ meaning (or, often, meanings) they do, given the meanings of their parts.
 I'm interested in...
 
 - Monads and applicative functors
-- Parsing and type inference, and combinatory categorial grammar
+- Parsing and/as type inference, and combinatory categorial grammar
 - State and nondeterminism, scope and continuations
 - Ambiguity, under-specification, and anaphora resolution
 - Dynamic theories of semantics, and of discourse
