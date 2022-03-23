@@ -8,11 +8,16 @@ I'm working on computational tools for doing natural language semantics. I use
 type theory and functional programming (now usually Haskell, previously OCaml)
 to develop models of how complex linguistic expressions come to have the
 meaning (or, often, meanings) they do, given the meanings of their parts. I'm
-interested in monads and applicative functors, parsing and type inference,
-state and nondeterminism, scope and continuations, ambiguity,
-under-specification, and anaphora resolution, and dynamic theories of
-semantics, and of discourse. Aside from the code here, I have [some
-gists](https://gist.github.com/schar).
+interested in...
 
+- Monads and applicative functors
+- Parsing and type inference
+- State and nondeterminism, scope and continuations
+- Ambiguity, under-specification, and anaphora resolution
+- Dynamic theories of semantics, and of discourse
+- Learning more about NLP, distributional models of meaning, and their role in
+  compositional semantics
+
+Aside from the code here, I have [some gists](https://gist.github.com/schar).
 My contact info is on [my website](https://simoncharlow.com). Feel free to get
 in touch.
