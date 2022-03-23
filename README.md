@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**schar/schar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Simon Charlow. I'm an Associate Professor in the [Rutgers
+Department of Linguistics](https://ling.rutgers.edu), where I also serve as
+the Graduate Program Director.
 
-Here are some ideas to get you started:
+I'm working on computational tools for doing natural language semantics. I use
+type theory and functional programming (now usually Haskell, previously OCaml)
+to develop models of how complex linguistic expressions come to have meanings,
+given the meanings of their parts. I'm interested in monads and applicative
+functors, parsing and type inference, state and nondeterminism, scope and
+continuations, and dynamic theories of semantics, and of discourse. Aside from
+the code here, I have [some gists](https://gist.github.com/schar).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My contact info is on [my website](https://simoncharlow.com). Feel free to get
+in touch.
