@@ -15,8 +15,8 @@ I'm interested in...
 - State and nondeterminism, scope and continuations
 - Ambiguity, under-specification, and anaphora resolution
 - Dynamic theories of semantics, and of discourse
-- Learning more about NLP and distributional models of meaning, and their role
-  in compositional semantics
+- NLP, distributional models of meaning, and their role in compositional
+  semantics
 
 Aside from the code here, I have [some gists](https://gist.github.com/schar).
 My contact info is on [my website](https://simoncharlow.com). Feel free to get
