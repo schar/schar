@@ -1,7 +1,7 @@
 ### Hello 👋
 
-My name is Simon Charlow. I'm an Associate Professor in the [Rutgers
-Department of Linguistics](https://ling.rutgers.edu).
+My name is Simon Charlow. I'm an Associate Professor in the [Yale
+Department of Linguistics](https://ling.yale.edu).
 
 I'm working on computational tools for doing natural language semantics. I use
 type theory and functional programming (now usually Haskell, previously OCaml)
